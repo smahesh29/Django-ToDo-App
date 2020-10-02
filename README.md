@@ -27,3 +27,7 @@ Running the project:
 
        > cd todo_app 
        > python manage.py runserver  
+
+Additional feature:
+  🛑 What if we can change the list-item to remove strike-through when clicked second time?
+  [Lets make it! 😍 ]
